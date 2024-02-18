@@ -6,7 +6,7 @@ Suppose you are part of a scrum team developing data warehouse for Bloomberg to 
 Java-Spring-boot
 mysql
 pre-installation
-first need to download mysql i am using windows 34, we pull mysql image through docker composer windows/
+first need to download mysql i am using windows , we pull mysql image through docker composer windows/
 
 java 17 and maven 3.9.2 
 docker
